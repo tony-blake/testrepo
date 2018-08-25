@@ -1,0 +1,8 @@
+Name: Matthew Skrzypczyk
+Email: mdskrzypczyk@tuta.io
+Age: 24
+Occupation: Software Engineer
+Company: HERE International B.V.
+Title: QChat
+Abstract: QChat is a simple distributed encrypted chat platform built on Simulaqron that enables users to derive shared keys with their peers using the purified BB84 protocol in the presence of an unauthenticated classical channel.  The key derivation protocol includes error correction utilizing Golay linear codes and privacy amplification built on keyless fuzzy extractors.  The derived keys are used to encrypt messages between two users using AES-GCM to guarantee authenticity and integrity.  The unauthenticated classical channel is solutioned using a registry server that maintains RSA public information for users in the network, allowing peers to authenticate un-encrypted messages necessary for the key establishment process.
+edX Username: mdskrzypczyk
